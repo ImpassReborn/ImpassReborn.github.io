@@ -8,11 +8,11 @@
 			</div>
 			<div class="carousel slide" id="carousel-118526">
 				<ol class="carousel-indicators">
-					<li class="active" data-slide-to="0" data-target="#carousel-118526">
+					<li class="active" data-slide-to="" data-target="#carousel-118526">
 					</li>
-					<li data-slide-to="1" data-target="#carousel-118526">
+					<li data-slide-to="" data-target="#carousel-118526">
 					</li>
-					<li data-slide-to="2" data-target="#carousel-118526">
+					<li data-slide-to="" data-target="#carousel-118526">
 					</li>
 				</ol>
 				<div class="carousel-inner">
