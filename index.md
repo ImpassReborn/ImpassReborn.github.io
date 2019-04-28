@@ -1,4 +1,4 @@
-## 目 力 3 0 2
+## Impass Reborn
 
 You can use the [editor on GitHub](https://github.com/ImpassReborn/ImpassReborn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
